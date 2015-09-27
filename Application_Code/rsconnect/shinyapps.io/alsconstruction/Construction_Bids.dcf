@@ -1,0 +1,9 @@
+name: Construction_Bids
+account: alsconstruction
+server: shinyapps.io
+appId: 60233
+bundleId: 266748
+url: https://alsconstruction.shinyapps.io/Construction_Bids
+when: 1442420876.58396
+asMultiple: FALSE
+asStatic: FALSE
